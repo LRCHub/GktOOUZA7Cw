@@ -1,98 +1,89 @@
-# Creepy Nuts – Otonoke - オトノケ
+# Creepy Nuts – オトノケ - Otonoke (Opening Theme to DAN DA DAN)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:00.00] Dandadan, dandadan, dandadan, dandadan, dandadan
-[00:03.47] Dandadan, dandadan, dandadan, dandadan, dandadan
-[00:06.29] Dandadan, dandadan, dandadan, dandadan, dandadan
-[00:09.05] Dandadan, dandadan, dandadan
-[00:23.05] 
-[00:11.05] Akirame no warui yakara
-[00:12.40] Antara nanka ja taba natte mo kanawan
-[00:14.67] Kuwabara, kuwabara, kuwabara
-[00:16.11] Me ni mo tomaran hayasa, hey
-[00:17.68] Kutabaran damaran
-[00:18.68] Sagaran oshitoosu wagamama, hey
-[00:20.47] Soko doki na jama da ore wa mou hitori no anata
-[00:23.33] Sada-Chan, Kaya-Chan
-[00:24.34] Wansaka yomi no kuni wonderland, hey
-[00:26.39] Gokitouchuu ni nanda ga
-[00:27.42] Yonji, yonjuu, yonpun mawattara
-[00:28.95] Yonshaku, yonsun, yonpun sama ga
-[00:30.64] Kaminaccha bang around, hey
-[00:32.11] Yobu koe ga shitan nara
-[00:33.04] Moji doori otsukare sama yan
-[00:47.04] 
-[00:34.71] Haireta
-[00:35.30] Haireta
-[00:35.81] Haireta
-[00:36.38] Haireta
-[00:36.86] Haireta
-[00:37.86] Hisshi de haideta saki de kiri wa hareta
-[00:40.71] Deko to boko ga umaku kamiattara
-[00:43.19] Itami ga kasanattara
-[00:53.19] 
-[00:45.09] Kokoro karada atama
-[00:46.49] Minagitte yuku nandaka
-[00:47.93] Senaka ni ima hane ga haeta naraba
-[00:50.77] Kurayami kara osaraba, ay
-[00:53.53] Tobitatte yuku kanata, ay
-[01:06.03] 
-[00:56.21] Kokoro karada atama
-[00:57.61] Natsukashii atataka sa
-[00:59.26] Ashimoto ni ima hana ga saita naraba
-[01:02.13] Kurayami kara osaraba, ay
-[01:04.93] Tobitatte yuku kanata, woah!
-[01:07.40] Nando datte ikiru omae ya kimi no naka
-[01:11.41] Mabuta no ura ya mimi no naka
-[01:14.24] Mune no oku ni itsuiteru merodii
-[01:17.73] Rizumu ni, yeah
-[01:25.23] 
-[01:19.43] Dandadan, dandadan, dandadan, dandadan, dandadan
-[01:22.42] Dandadan, dandadan, dandadan, dandadan, dandadan
-[01:25.22] Dandadan, dandadan, dandadan, dandadan, dandadan
-[01:28.04] Dandadan, dandadan, dandadan
-[01:42.04] 
-[01:31.40] Kyou mo sainokawara domannaka (Woah)
-[01:32.90] Tsumiageteku top of top (Top of top)
-[01:35.03] Oni to chanbara, the lyrical chainsaw massacre (Brum)
-[01:38.03] Wataru oounabara hana uta singin' "Sha-la-la" (La-la)
-[01:40.90] Haraitai no nara matsudai made no satsutaba (Okay?)
-[01:43.75] Dare ga hiraita ka Pandora
-[01:45.16] Ato wa nani ga attemo shirangana (No way!)
-[01:46.74] Nanbyaku nen matta ka chou hisashiburi no shaba da, hey
-[01:49.81] Gaki ya wakaba mada kocchi kon janee yo baka ga
-[01:52.10] Ima tashika ni me ga atta na
-[01:53.97] Koo yuu koto ka yo shamaran
-[02:07.47] 
-[01:55.38] Haireta
-[01:55.84] Haireta
-[01:56.42] Haireta
-[01:56.97] Haireta
-[01:57.51] Haireta
-[01:58.47] Nemuri akita saki de kimi ga matteta
-[02:01.31] Tate to hoko ga kata wo dakiattara
-[02:03.79] Ikari ga kiesattara
-[02:13.29] 
-[02:06.23] Kokoro karada atama
-[02:07.51] Minagitte yuku nandaka
-[02:08.97] Senaka ni ima hane ga haeta naraba
-[02:11.75] Kurayami kara osaraba, ay
-[02:14.51] Tobitatte yuku kanata, ay
-[02:27.01] 
-[02:17.20] Kokoro karada atama
-[02:18.49] Natsukashii atataka sa
-[02:19.90] Ashimoto ni ima hana ga saita naraba
-[02:22.79] Kurayami kara osaraba, ay
-[02:25.57] Tobitatte yuku kanata, woah!
-[02:28.07] Nando datte ikiru omae ya kimi no naka
-[02:32.13] Mabuta no ura ya mimi no naka
-[02:34.94] Mune no oku ni itsuiteru merodii
-[02:38.53] Rizumu ni, yeah
-[02:46.03] 
-[02:51.78] Dandadan, dandadan, dandadan, dandadan, dandadan
-[02:54.54] Dandadan, dandadan, dandadan, dandadan, dandadan
-[02:57.34] Dandadan, dandadan, dandadan, dandadan, dandadan
-[03:00.19] Dandadan, dandadan, dandadan
+[00:00.59] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[00:03.45] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[00:06.22] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[00:09.03] ダンダダン ダンダダン ダンダダン
+[00:17.53] 
+[00:11.04] 諦めの悪い輩
+[00:12.48] アンタらなんかじゃ束なっても敵わん
+[00:14.64] くわばらくわばらくわばら 目にも止まらん速さ hey
+[00:17.68] くたばらん 黙らん 下がらん 押し通す我儘 hey
+[00:20.35] そこどきな 邪魔だ 俺はもう1人の貴方
+[00:29.85] 
+[00:23.14] 貞ちゃん 伽椰ちゃん わんさか 黄泉の国 wonderland, hey
+[00:26.19] 御祈祷中に何だが 4時44分まわったら
+[00:28.69] 四尺四寸四分様がカミナッチャ bang around, hey
+[00:31.75] 呼ぶ声がしたんなら 文字通りお憑かれさまやん
+[00:42.75] 
+[00:34.44] ハイレタハイレタハイレタハイレタハイレタ
+[00:37.51] 必死で這い出た先で霧は晴れた
+[00:40.43] デコとボコが上手く噛み合ったら
+[00:42.96] 痛みが重なったら
+[00:46.96] 
+[00:44.85] ココロカラダアタマ
+[00:46.35] みなぎってゆく 何だか
+[00:47.70] 背中に今羽が生えたならば
+[00:50.46] 暗闇からおさらば ey
+[00:53.30] 飛び立っていく彼方 ey
+[00:59.30] 
+[00:56.19] ココロカラダアタマ
+[00:57.56] 懐かしい暖かさ
+[00:59.08] 足元に今花が咲いたならば
+[01:01.87] 暗闇からおさらば ey
+[01:04.62] 飛び立っていく彼方 (whoo!)
+[01:13.12] 
+[01:07.03] 何度だって生きる
+[01:08.87] お前や君の中
+[01:11.06] 瞼の裏や耳の中
+[01:13.94] 胸の奥に居着いてるメロディー、リズムに yeah
+[01:25.94] 
+[01:19.66] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[01:22.41] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[01:25.26] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[01:28.18] ダンダダン ダンダダン ダンダダン
+[01:36.68] 
+[01:31.46] 今日も賽の河原ど真ん中
+[01:33.05] 積み上げてく top of top (top of top)
+[01:34.73] 鬼とチャンバラ
+[01:35.84] The lyrical chainsaw massacre
+[01:37.60] 渡る大海原
+[01:38.78] 鼻歌 singin' sha-la-la (la-la)
+[01:40.44] 祓いたいのなら末代までの札束 (okay?)
+[01:51.44] 
+[01:43.39] 誰が開いたか禁后 後は何があっても知らんがな hey (no way)
+[01:46.53] 何百年待ったか 超久しぶりの娑婆だ hey (whoo!)
+[01:49.68] ガキや若葉 まだコッチ来んじゃねーよ バカが
+[01:51.91] 今確かに目が合ったな
+[01:53.56] こーゆーことかよ シャマラン
+[02:00.56] 
+[01:54.95] ハイレタハイレタハイレタハイレタハイレタ
+[01:58.06] 眠り飽きた先で君が待ってた
+[02:00.82] 盾と矛が肩を抱き合ったら
+[02:03.45] 怒りが消え去ったら
+[02:07.95] 
+[02:05.33] ココロカラダアタマ
+[02:06.72] みなぎってゆく 何だか
+[02:08.14] 背中に今羽が生えたならば
+[02:11.00] 暗闇からおさらば ey
+[02:13.80] 飛び立っていく彼方 ey
+[02:19.80] 
+[02:16.61] ココロカラダアタマ
+[02:18.12] 懐かしい暖かさ
+[02:19.53] 足元に今花が咲いたならば
+[02:22.29] 暗闇からおさらば ey
+[02:25.08] 飛び立っていく彼方 (whoo!)
+[02:33.58] 
+[02:27.67] 何度だって生きる
+[02:29.35] お前や君の中
+[02:31.50] 瞼の裏や耳の中
+[02:34.43] 胸の奥に居着いてるメロディー、リズムに yeah
+[02:46.43] 
+[02:51.44] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[02:54.26] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[02:57.09] ダンダダン ダンダダン ダンダダン ダンダダン ダンダダン
+[02:59.88] ダンダダン ダンダダン ダンダダン
 ```
